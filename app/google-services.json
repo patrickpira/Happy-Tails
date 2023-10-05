@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096748238102",
+    "project_id": "hpytails-ac504",
+    "storage_bucket": "hpytails-ac504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096748238102:android:9133712a4f58bef5ab3c37",
+        "android_client_info": {
+          "package_name": "com.example.happytails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Bvm8LBFdugYcjtXIYbUDoi1LwzCH2ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
